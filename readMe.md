@@ -6,8 +6,8 @@ To get started with using the Bloc API, you'll need to do the following:
 
 ## Screenshots
 
-<img src="screenshots/1.png" width="200" height="400" />
-<img src="screenshots/2.png" width="200" height="400" />
+<img src="screenshots/1.png" width="250" height="480" />
+<img src="screenshots/2.png" width="250" height="400" />
 <img src="screenshots/3.png" width="250" height="450" />
 
 ## Features
